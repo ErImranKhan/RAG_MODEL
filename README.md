@@ -1,12 +1,16 @@
-📄 Document Chat System (RAG_MODEL)
-This project is a Document Chat System that allows users to upload PDF documents, index them using Pinecone, and ask questions about the content of the documents. The system leverages Google's Generative AI models, Streamlit for the UI, Firebase for document metadata storage, and Pinecone for vector-based search.
+<h1> 📄 Document Chat System </h1>
+<hr>
 
-🚀 Features
+<b> This project is a Document Chat System that allows users to upload PDF documents, index them using Pinecone, and ask questions about the content of the documents. The system leverages Google's Generative AI models, Streamlit for the UI, Firebase for document metadata storage, and Pinecone for vector-based search. <b>
+
+<h2> 🚀 Features </h2> 
+
 PDF Upload: Users can upload PDF files which are parsed and indexed.
 Document Indexing: The text from the PDF is split into manageable chunks and indexed into Pinecone for fast and efficient retrieval.
 Question Answering: Users can ask questions related to the uploaded PDF documents. The system retrieves the relevant chunks and uses a generative AI model to generate the answers.
 Validation: Basic validation on questions to ensure appropriateness.
 Firebase Integration: Stores document index metadata in Firebase.
+
 🛠️ Technologies Used
 Streamlit: For building the web UI.
 PyPDF2: For reading and extracting text from PDF documents.
@@ -20,8 +24,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/ErImranKhan/RAG_MODEL.git
-cd RAG_MODEL
+git clone https://github.com/your-username/document-chat-system.git
+cd document-chat-system
 Install the required dependencies: Create a virtual environment (optional but recommended) and install dependencies.
 
 bash
@@ -75,4 +79,3 @@ If you'd like to contribute to this project, feel free to open a pull request or
 
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
