@@ -1,7 +1,7 @@
 <h1> 📄 Document Chat System </h1>
 <hr>
 
-<b> This project is a Document Chat System that allows users to upload PDF documents, index them using Pinecone, and ask questions about the content of the documents. The system leverages Google's Generative AI models, Streamlit for the UI, Firebase for document metadata storage, and Pinecone for vector-based search. <b>
+This project is a Document Chat System that allows users to upload PDF documents, index them using Pinecone, and ask questions about the content of the documents. The system leverages Google's Generative AI models, Streamlit for the UI, Firebase for document metadata storage, and Pinecone for vector-based search.
 
 <h2> 🚀 Features </h2> 
 
