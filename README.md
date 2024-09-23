@@ -52,9 +52,9 @@ Generative AI: The AI model used for embeddings and QA is Google's Generative AI
 
 1. Uploading a PDF:
 
-*Go to the Upload Document section.
-*Upload a PDF file and provide a unique Chat Name.
-*Click on the Upload and Index Document button to process and index the document.
+<p> *Go to the Upload Document section. </p>
+<p> *Upload a PDF file and provide a unique Chat Name.
+*Click on the Upload and Index Document button to process and index the document.</p>
 
 2. Asking Questions:
 *Go to the Ask a Question section.
@@ -77,3 +77,8 @@ If you'd like to contribute to this project, feel free to open a pull request or
 
 <h2> 📝 License </h2>
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+<h2> 📝 License </h2>
+
+This project is licensed under the [MIT License](https://github.com/your-username/your-repo/blob/main/LICENSE).
+
