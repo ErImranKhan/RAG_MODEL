@@ -52,9 +52,9 @@ streamlit run app.py </p>
 
 1. Uploading a PDF:
 
-<p> Go to the Upload Document section. </p>
-<p> Upload a PDF file and provide a unique Chat Name. </p>
-<p> Click on the Upload and Index Document button to process and index the document.</p>
+  <p> Go to the Upload Document section. </p>
+  <p> Upload a PDF file and provide a unique Chat Name. </p>
+  <p> Click on the Upload and Index Document button to process and index the document.</p>
 
 2. Asking Questions:
 <p> Go to the Ask a Question section.</p>
