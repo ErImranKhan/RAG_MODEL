@@ -13,13 +13,13 @@ This project is a Document Chat System that allows users to upload PDF documents
 
 <h2> 🛠️ Technologies Used </h2>
 
-<p> Streamlit: For building the web UI.</p>
-<p> PyPDF2: For reading and extracting text from PDF documents.</p>
-<p> Langchain: For handling text splitting and conversational AI.</p>
-<p> Google Generative AI: Used for embeddings and chat generation.</p>
-<p> Pinecone: For vector-based document search.</p>
-<p> Firebase: For storing metadata about document indices.</p>
-<p> Python: Core language used for development.</p>
+<p> - Streamlit: For building the web UI.</p>
+<p> - PyPDF2: For reading and extracting text from PDF documents.</p>
+<p> - Langchain: For handling text splitting and conversational AI.</p>
+<p> - Google Generative AI: Used for embeddings and chat generation.</p>
+<p> - Pinecone: For vector-based document search.</p>
+<p> - Firebase: For storing metadata about document indices.</p>
+<p> - Python: Core language used for development.</p>
 
 <h2> 📦 Installation </h2>
 
