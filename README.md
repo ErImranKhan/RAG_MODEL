@@ -24,7 +24,7 @@ This project is a **Document Chat System** that allows users to upload PDF docum
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/document-chat-system.git
+   git clone https://github.com/ErImranKhan/RAG_MODEL.git
    cd document-chat-system
    ```
 
